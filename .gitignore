@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.v16.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Bb]uild/
+
+# NuGet packages
+packages/
+*.nupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
